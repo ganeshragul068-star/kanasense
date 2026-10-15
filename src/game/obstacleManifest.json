@@ -1,0 +1,199 @@
+[
+  {
+    "id": "toro",
+    "name": "Toro (Stone Lantern)",
+    "col": 0,
+    "row": 0,
+    "ground": true,
+    "difficulty": "easy",
+    "questionType": "multiple_choice",
+    "width": 84,
+    "height": 141,
+    "imagePath": "/assets/game/obstacles/toro.png",
+    "hitboxPadding": {
+      "x": 0.18,
+      "y": 0.18
+    }
+  },
+  {
+    "id": "bamboo_fence",
+    "name": "Bamboo Fence",
+    "col": 1,
+    "row": 0,
+    "ground": true,
+    "difficulty": "easy",
+    "questionType": "multiple_choice",
+    "width": 195,
+    "height": 103,
+    "imagePath": "/assets/game/obstacles/bamboo_fence.png",
+    "hitboxPadding": {
+      "x": 0.18,
+      "y": 0.18
+    }
+  },
+  {
+    "id": "wooden_cart",
+    "name": "Wooden Cart",
+    "col": 2,
+    "row": 0,
+    "ground": true,
+    "difficulty": "medium",
+    "questionType": "writing",
+    "width": 162,
+    "height": 114,
+    "imagePath": "/assets/game/obstacles/wooden_cart.png",
+    "hitboxPadding": {
+      "x": 0.18,
+      "y": 0.18
+    }
+  },
+  {
+    "id": "caltrops",
+    "name": "Shinobi Caltrops",
+    "col": 3,
+    "row": 0,
+    "ground": true,
+    "difficulty": "hard",
+    "questionType": "hard_challenge",
+    "width": 124,
+    "height": 73,
+    "imagePath": "/assets/game/obstacles/caltrops.png",
+    "hitboxPadding": {
+      "x": 0.15,
+      "y": 0.25
+    }
+  },
+  {
+    "id": "torii_gate",
+    "name": "Torii Gate",
+    "col": 0,
+    "row": 1,
+    "ground": true,
+    "tall": true,
+    "difficulty": "medium",
+    "questionType": "writing",
+    "width": 183,
+    "height": 150,
+    "imagePath": "/assets/game/obstacles/torii_gate.png",
+    "hitboxPadding": {
+      "x": 0.22,
+      "y": 0.15
+    }
+  },
+  {
+    "id": "stone_jizo",
+    "name": "Stone Jizo Statue",
+    "col": 1,
+    "row": 1,
+    "ground": true,
+    "difficulty": "medium",
+    "questionType": "writing",
+    "width": 105,
+    "height": 151,
+    "imagePath": "/assets/game/obstacles/stone_jizo.png",
+    "hitboxPadding": {
+      "x": 0.18,
+      "y": 0.18
+    }
+  },
+  {
+    "id": "bonsai_table",
+    "name": "Bonsai Table",
+    "col": 2,
+    "row": 1,
+    "ground": true,
+    "difficulty": "medium",
+    "questionType": "writing",
+    "width": 170,
+    "height": 134,
+    "imagePath": "/assets/game/obstacles/bonsai_table.png",
+    "hitboxPadding": {
+      "x": 0.18,
+      "y": 0.18
+    }
+  },
+  {
+    "id": "lantern_rack",
+    "name": "Paper Lantern Rack",
+    "col": 3,
+    "row": 1,
+    "ground": true,
+    "tall": true,
+    "difficulty": "easy",
+    "questionType": "multiple_choice",
+    "width": 190,
+    "height": 151,
+    "imagePath": "/assets/game/obstacles/lantern_rack.png",
+    "hitboxPadding": {
+      "x": 0.18,
+      "y": 0.18
+    }
+  },
+  {
+    "id": "cherry_blossoms",
+    "name": "Falling Cherry Blossoms",
+    "col": 0,
+    "row": 2,
+    "ground": false,
+    "aerial": true,
+    "difficulty": "easy",
+    "questionType": "multiple_choice",
+    "width": 171,
+    "height": 139,
+    "imagePath": "/assets/game/obstacles/cherry_blossoms.png",
+    "hitboxPadding": {
+      "x": 0.18,
+      "y": 0.18
+    }
+  },
+  {
+    "id": "kite",
+    "name": "Kite (Takotori)",
+    "col": 1,
+    "row": 2,
+    "ground": false,
+    "aerial": true,
+    "difficulty": "medium",
+    "questionType": "writing",
+    "width": 161,
+    "height": 134,
+    "imagePath": "/assets/game/obstacles/kite.png",
+    "hitboxPadding": {
+      "x": 0.18,
+      "y": 0.18
+    }
+  },
+  {
+    "id": "daruma",
+    "name": "Daruma Blocker",
+    "col": 2,
+    "row": 2,
+    "ground": true,
+    "difficulty": "hard",
+    "questionType": "hard_challenge",
+    "width": 126,
+    "height": 131,
+    "imagePath": "/assets/game/obstacles/daruma.png",
+    "hitboxPadding": {
+      "x": 0.18,
+      "y": 0.18
+    }
+  },
+  {
+    "id": "rice_bale",
+    "name": "Rolling Rice Bale",
+    "col": 3,
+    "row": 2,
+    "ground": true,
+    "rolling": true,
+    "difficulty": "hard",
+    "questionType": "hard_challenge",
+    "width": 156,
+    "height": 126,
+    "imagePath": "/assets/game/obstacles/rice_bale.png",
+    "hitboxPadding": {
+      "x": 0.18,
+      "y": 0.18
+    }
+  }
+]
